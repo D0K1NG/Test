@@ -1,3 +1,5 @@
 # Demo
 
-Vjezbanje git komandi!.
+Vjezbanje git komandi!
+
+# :)
